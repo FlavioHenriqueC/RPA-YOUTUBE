@@ -24,5 +24,5 @@ def baixar_audio_youtube(url_do_video, pasta_destino=r'C:\Users\flavi\OneDrive\�
         print("Download e conversão concluídos!")
 
 if __name__ == '__main__':
-    url = "-"
+    url = "--"
     baixar_audio_youtube(url)
